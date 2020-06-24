@@ -10,7 +10,7 @@ export const Home: FunctionComponent = () => {
   // history.replace('/add-zip')
 
   return ( 
-    <div style={style.main}></div> 
+    <div style={style.main}>HomePage</div> 
   )
 
 }
